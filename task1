@@ -7,3 +7,4 @@ result = false;
 }
 
 var result = (a + b < 4) ? true : false;
+print(result);
